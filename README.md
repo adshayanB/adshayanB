@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Computer Engineering student at the University of Waterloo.
+
+- Currently interning at Amazon Ads as a SWE
+- Seeking Fall 2023 Internships!
+
 <!--
 **adshayanB/adshayanB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
